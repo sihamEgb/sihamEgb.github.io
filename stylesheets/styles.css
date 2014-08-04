@@ -11,9 +11,7 @@ h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
 }
-h2{
-  color:#bada55;
-}
+
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
@@ -27,8 +25,8 @@ h1 {
   font-size:28px;
 }
 
-h2 {
-  color:#393939;
+h2{
+  color:#2A7311;
 }
 
 h3, h4, h5, h6 {
