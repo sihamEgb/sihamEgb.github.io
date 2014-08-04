@@ -32,7 +32,7 @@ h3, h4, h5, h6 {
 }
 
 h2{
-  color:#2A7311;
+  color:#393939;
 }
 
 a {
@@ -247,9 +247,6 @@ footer {
   header ul {
     display:none;
   }
-}
-h2{
-  color:#2A7311;
 }
 
 @media print {
