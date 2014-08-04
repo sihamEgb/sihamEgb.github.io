@@ -25,9 +25,7 @@ h1 {
   font-size:28px;
 }
 
-h2{
-  color:#2A7311;
-}
+
 
 h3, h4, h5, h6 {
   color:#494949;
@@ -245,6 +243,9 @@ footer {
   header ul {
     display:none;
   }
+}
+h2{
+  color:#2A7311;
 }
 
 @media print {
